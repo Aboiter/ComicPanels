@@ -1,0 +1,2689 @@
+{
+    "id": 10130,
+    "issue_meta": {
+        "id": 10130,
+        "catalog_id": 20642,
+        "title": "Wolverine (2003) #62",
+        "series_id": 632,
+        "series_title": "Wolverine (2003 - 2009)",
+        "release_date": "2008-02-13",
+        "description": "\"GET (classified)\" PART 1\r<br>Writer Jason Aaron (Scalped) and artist Ron Garney (AMAZING SPIDER-MAN) bring you a searing 4-part epilogue to the biggest X-Men Event in a decade.  In the searing aftermath of \"Messiah CompleX,\" Wolverine has just one thing on his mind: revenge.  But who is the focus of his rage, and what dark secret does he share with them?  And how far over the edge is Wolverine willing to go to get what he wants?\r<br>Parental Advisory...$2.99 \r<br>\r<br>",
+        "rating": "PARENTAL ADVISORY",
+        "imprint": "Marvel Knights",
+        "format": "Comic",
+        "creators": {
+            "string_list": "Aaron, Garney, Keith, Petit, Caramagna, Alonso",
+            "creators_analytics": "11463 | Jason Aaron, 120 | Ron Garney, 426 | Jason Keith, 361 | Cory Petit, 5251 | Vc Joe Caramagna, 4014 | Axel Alonso",
+            "extended_list": [
+                {
+                    "id": 11463,
+                    "full_name": "Jason Aaron",
+                    "role": "writer"
+                },
+                {
+                    "id": 120,
+                    "full_name": "Ron Garney",
+                    "role": "penciller (cover)"
+                },
+                {
+                    "id": 426,
+                    "full_name": "Jason Keith",
+                    "role": "colorist"
+                },
+                {
+                    "id": 361,
+                    "full_name": "Cory Petit",
+                    "role": "letterer"
+                },
+                {
+                    "id": 5251,
+                    "full_name": "Vc Joe Caramagna",
+                    "role": "letterer"
+                },
+                {
+                    "id": 4014,
+                    "full_name": "Axel Alonso",
+                    "role": "editor"
+                }
+            ],
+            "extended_list_roles": [
+                "writer",
+                "penciller (cover)",
+                "colorist",
+                "letterer",
+                "editor"
+            ]
+        }
+    },
+    "pages": [
+        {
+            "id": 198806,
+            "book_id": 10130,
+            "color_file": "0_8e55.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 0,
+            "panels": [
+                {
+                    "id": 2850002,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 0,
+                    "y": 0,
+                    "height": 2800,
+                    "width": 1821,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198807,
+            "book_id": 10130,
+            "color_file": "1_b3e1.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 1,
+            "panels": [
+                {
+                    "id": 1250584,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 100,
+                    "y": 264,
+                    "height": 514,
+                    "width": 1636,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250585,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 321,
+                    "y": 779,
+                    "height": 555,
+                    "width": 1215,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250586,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 495,
+                    "y": 1335,
+                    "height": 1009,
+                    "width": 824,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 2850003,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 0,
+                    "y": 0,
+                    "height": 2800,
+                    "width": 1821,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198808,
+            "book_id": 10130,
+            "color_file": "2_e370.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 2,
+            "panels": [
+                {
+                    "id": 1250588,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 0,
+                    "y": 0,
+                    "height": 625,
+                    "width": 804,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250589,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 418,
+                    "y": 0,
+                    "height": 669,
+                    "width": 1165,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250590,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 64,
+                    "y": 711,
+                    "height": 1121,
+                    "width": 808,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842790,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250591,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 871,
+                    "y": 731,
+                    "height": 1239,
+                    "width": 917,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250592,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 61,
+                    "y": 2046,
+                    "height": 754,
+                    "width": 821,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842791,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250593,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 939,
+                    "y": 1996,
+                    "height": 804,
+                    "width": 815,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842793,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198809,
+            "book_id": 10130,
+            "color_file": "3_6681.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 3,
+            "panels": [
+                {
+                    "id": 1250594,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 123,
+                    "y": 73,
+                    "height": 561,
+                    "width": 770,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250595,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 954,
+                    "y": 73,
+                    "height": 567,
+                    "width": 767,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842796,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250596,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 274,
+                    "y": 709,
+                    "height": 772,
+                    "width": 1227,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842797,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250597,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 834,
+                    "y": 710,
+                    "height": 1465,
+                    "width": 918,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250598,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 141,
+                    "y": 2252,
+                    "height": 548,
+                    "width": 1537,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842798,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198810,
+            "book_id": 10130,
+            "color_file": "4_f0b8.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 4,
+            "panels": [
+                {
+                    "id": 1250599,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 636,
+                    "y": 68,
+                    "height": 514,
+                    "width": 1025,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250600,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 134,
+                    "y": 598,
+                    "height": 964,
+                    "width": 931,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842812,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250601,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 1059,
+                    "y": 600,
+                    "height": 963,
+                    "width": 698,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250602,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 119,
+                    "y": 1579,
+                    "height": 599,
+                    "width": 901,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842816,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250603,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 1016,
+                    "y": 1574,
+                    "height": 601,
+                    "width": 688,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250604,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 391,
+                    "y": 2194,
+                    "height": 606,
+                    "width": 1118,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842818,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198811,
+            "book_id": 10130,
+            "color_file": "5_3a05.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 5,
+            "panels": [
+                {
+                    "id": 1250605,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 81,
+                    "y": 77,
+                    "height": 968,
+                    "width": 472,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250606,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 595,
+                    "y": 3,
+                    "height": 1141,
+                    "width": 1139,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842826,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250607,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 266,
+                    "y": 1155,
+                    "height": 625,
+                    "width": 1185,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842827,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250608,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 251,
+                    "y": 1805,
+                    "height": 995,
+                    "width": 980,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842828,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250609,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 1263,
+                    "y": 1858,
+                    "height": 725,
+                    "width": 460,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842829,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198812,
+            "book_id": 10130,
+            "color_file": "6_f457.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 6,
+            "panels": [
+                {
+                    "id": 1250610,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 81,
+                    "y": 99,
+                    "height": 809,
+                    "width": 707,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250611,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 0,
+                    "y": 943,
+                    "height": 764,
+                    "width": 584,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842835,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250612,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 555,
+                    "y": 941,
+                    "height": 1859,
+                    "width": 1266,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198813,
+            "book_id": 10130,
+            "color_file": "7_8601.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 7,
+            "panels": [
+                {
+                    "id": 1250613,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 48,
+                    "y": 97,
+                    "height": 2035,
+                    "width": 1720,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250614,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 671,
+                    "y": 150,
+                    "height": 1293,
+                    "width": 1040,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250615,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 62,
+                    "y": 2349,
+                    "height": 448,
+                    "width": 1744,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198814,
+            "book_id": 10130,
+            "color_file": "8_1033.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 8,
+            "panels": [
+                {
+                    "id": 1250616,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 0,
+                    "y": 4,
+                    "height": 1574,
+                    "width": 940,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250617,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 950,
+                    "y": 74,
+                    "height": 610,
+                    "width": 809,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842841,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250618,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 956,
+                    "y": 738,
+                    "height": 620,
+                    "width": 802,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842842,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250619,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 959,
+                    "y": 1410,
+                    "height": 636,
+                    "width": 802,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842843,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250620,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 156,
+                    "y": 2114,
+                    "height": 643,
+                    "width": 760,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842844,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250621,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 967,
+                    "y": 2106,
+                    "height": 647,
+                    "width": 854,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842845,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198815,
+            "book_id": 10130,
+            "color_file": "9_31b4.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 9,
+            "panels": [
+                {
+                    "id": 1250622,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 0,
+                    "y": 0,
+                    "height": 909,
+                    "width": 892,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250623,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 960,
+                    "y": 0,
+                    "height": 910,
+                    "width": 861,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842853,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250624,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 0,
+                    "y": 968,
+                    "height": 884,
+                    "width": 890,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842854,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250625,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 951,
+                    "y": 971,
+                    "height": 884,
+                    "width": 870,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842855,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250626,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 0,
+                    "y": 1909,
+                    "height": 891,
+                    "width": 890,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842856,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250627,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 952,
+                    "y": 1913,
+                    "height": 887,
+                    "width": 869,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842857,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198816,
+            "book_id": 10130,
+            "color_file": "10_09f4.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 10,
+            "panels": [
+                {
+                    "id": 1250628,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 0,
+                    "y": 0,
+                    "height": 983,
+                    "width": 1045,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250629,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 1045,
+                    "y": 0,
+                    "height": 981,
+                    "width": 776,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250630,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 147,
+                    "y": 999,
+                    "height": 719,
+                    "width": 475,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842875,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250631,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 682,
+                    "y": 997,
+                    "height": 718,
+                    "width": 447,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842876,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250632,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 1187,
+                    "y": 998,
+                    "height": 716,
+                    "width": 482,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842877,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250633,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 75,
+                    "y": 1842,
+                    "height": 815,
+                    "width": 948,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842878,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250634,
+                    "type": "rectangle",
+                    "sequence": 6,
+                    "x": 1066,
+                    "y": 1727,
+                    "height": 1073,
+                    "width": 755,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842879,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198817,
+            "book_id": 10130,
+            "color_file": "11_5634.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 11,
+            "panels": [
+                {
+                    "id": 1250635,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 0,
+                    "y": 0,
+                    "height": 731,
+                    "width": 994,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250636,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 996,
+                    "y": 0,
+                    "height": 733,
+                    "width": 825,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250637,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 814,
+                    "y": 796,
+                    "height": 560,
+                    "width": 957,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842890,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250638,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 402,
+                    "y": 1400,
+                    "height": 699,
+                    "width": 1271,
+                    "mask_color": "#ffffff",
+                    "transitions_forward": [
+                        {
+                            "id": 842884,
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250639,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 44,
+                    "y": 2110,
+                    "height": 657,
+                    "width": 847,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842891,
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250640,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 950,
+                    "y": 2106,
+                    "height": 660,
+                    "width": 831,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842892,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198818,
+            "book_id": 10130,
+            "color_file": "12_5a5f.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 12,
+            "panels": [
+                {
+                    "id": 1250641,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 414,
+                    "y": 69,
+                    "height": 581,
+                    "width": 1225,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250642,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 79,
+                    "y": 656,
+                    "height": 806,
+                    "width": 827,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842904,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250643,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 962,
+                    "y": 662,
+                    "height": 799,
+                    "width": 806,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842905,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250644,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 80,
+                    "y": 1520,
+                    "height": 797,
+                    "width": 828,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842906,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250645,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 964,
+                    "y": 1515,
+                    "height": 794,
+                    "width": 805,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842907,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250646,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 132,
+                    "y": 2324,
+                    "height": 476,
+                    "width": 1005,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842908,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250647,
+                    "type": "rectangle",
+                    "sequence": 6,
+                    "x": 1135,
+                    "y": 2339,
+                    "height": 461,
+                    "width": 611,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198819,
+            "book_id": 10130,
+            "color_file": "13_0512.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 13,
+            "panels": [
+                {
+                    "id": 1250648,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 215,
+                    "y": 38,
+                    "height": 1178,
+                    "width": 676,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250649,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 918,
+                    "y": 157,
+                    "height": 1054,
+                    "width": 647,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842915,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250650,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 378,
+                    "y": 1202,
+                    "height": 596,
+                    "width": 1034,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842917,
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250651,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 0,
+                    "y": 1201,
+                    "height": 1599,
+                    "width": 1821,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198820,
+            "book_id": 10130,
+            "color_file": "14_b371.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 14,
+            "panels": [
+                {
+                    "id": 1250652,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 819,
+                    "y": 0,
+                    "height": 631,
+                    "width": 962,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250653,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 144,
+                    "y": 553,
+                    "height": 350,
+                    "width": 694,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250654,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 219,
+                    "y": 963,
+                    "height": 787,
+                    "width": 1071,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842925,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250655,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 54,
+                    "y": 1811,
+                    "height": 893,
+                    "width": 880,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842926,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250656,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 992,
+                    "y": 1814,
+                    "height": 893,
+                    "width": 794,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842927,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198821,
+            "book_id": 10130,
+            "color_file": "15_92fd.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 15,
+            "panels": [
+                {
+                    "id": 1250657,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 74,
+                    "y": 74,
+                    "height": 1094,
+                    "width": 634,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250658,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 742,
+                    "y": 74,
+                    "height": 999,
+                    "width": 633,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842933,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250659,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 1394,
+                    "y": 336,
+                    "height": 842,
+                    "width": 312,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842934,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250660,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 141,
+                    "y": 1247,
+                    "height": 683,
+                    "width": 635,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842935,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250661,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 347,
+                    "y": 1940,
+                    "height": 860,
+                    "width": 1474,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842936,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198822,
+            "book_id": 10130,
+            "color_file": "16_0cdb.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 16,
+            "panels": [
+                {
+                    "id": 1250662,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 111,
+                    "y": 0,
+                    "height": 920,
+                    "width": 856,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 2850065,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 0,
+                    "y": 0,
+                    "height": 2800,
+                    "width": 1821,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198823,
+            "book_id": 10130,
+            "color_file": "17_4178.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 17,
+            "panels": [
+                {
+                    "id": 1250664,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 73,
+                    "y": 413,
+                    "height": 846,
+                    "width": 365,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250665,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 493,
+                    "y": 80,
+                    "height": 1384,
+                    "width": 822,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842941,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250666,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 1372,
+                    "y": 399,
+                    "height": 991,
+                    "width": 404,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842942,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250667,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 75,
+                    "y": 1525,
+                    "height": 1238,
+                    "width": 723,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842943,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250668,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 865,
+                    "y": 1524,
+                    "height": 1231,
+                    "width": 911,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842944,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198824,
+            "book_id": 10130,
+            "color_file": "18_066c.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 18,
+            "panels": [
+                {
+                    "id": 1250669,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 50,
+                    "y": 146,
+                    "height": 578,
+                    "width": 451,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250670,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 51,
+                    "y": 678,
+                    "height": 915,
+                    "width": 450,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250671,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 539,
+                    "y": 87,
+                    "height": 1643,
+                    "width": 1282,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842949,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250672,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 58,
+                    "y": 1994,
+                    "height": 731,
+                    "width": 544,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842950,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250673,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 652,
+                    "y": 1994,
+                    "height": 726,
+                    "width": 517,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842951,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250674,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 1225,
+                    "y": 1989,
+                    "height": 728,
+                    "width": 521,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842952,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198825,
+            "book_id": 10130,
+            "color_file": "19_535b.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 19,
+            "panels": [
+                {
+                    "id": 1250675,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 270,
+                    "y": 55,
+                    "height": 636,
+                    "width": 1039,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250676,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 927,
+                    "y": 45,
+                    "height": 475,
+                    "width": 744,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250677,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 339,
+                    "y": 743,
+                    "height": 621,
+                    "width": 1323,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842961,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250678,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 792,
+                    "y": 1419,
+                    "height": 332,
+                    "width": 971,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842962,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250679,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 433,
+                    "y": 1815,
+                    "height": 511,
+                    "width": 1107,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842963,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250680,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 406,
+                    "y": 2393,
+                    "height": 389,
+                    "width": 999,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842964,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198826,
+            "book_id": 10130,
+            "color_file": "20_b98c.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 20,
+            "panels": [
+                {
+                    "id": 1250681,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 66,
+                    "y": 65,
+                    "height": 1273,
+                    "width": 651,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250682,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 772,
+                    "y": 61,
+                    "height": 1275,
+                    "width": 994,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842976,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250683,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 69,
+                    "y": 1393,
+                    "height": 348,
+                    "width": 954,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842978,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250684,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 1015,
+                    "y": 1389,
+                    "height": 349,
+                    "width": 734,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250685,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 68,
+                    "y": 1788,
+                    "height": 970,
+                    "width": 886,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842979,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250686,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 1005,
+                    "y": 1787,
+                    "height": 967,
+                    "width": 766,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842980,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198827,
+            "book_id": 10130,
+            "color_file": "21_5a77.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 21,
+            "panels": [
+                {
+                    "id": 1250687,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 449,
+                    "y": 11,
+                    "height": 842,
+                    "width": 1207,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250688,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 0,
+                    "y": 926,
+                    "height": 576,
+                    "width": 891,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842985,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250689,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 946,
+                    "y": 922,
+                    "height": 579,
+                    "width": 875,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842986,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250690,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 94,
+                    "y": 1563,
+                    "height": 532,
+                    "width": 798,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842987,
+                            "type": "crossfade",
+                            "duration": 0,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250691,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 949,
+                    "y": 1558,
+                    "height": 538,
+                    "width": 775,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842988,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250692,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 0,
+                    "y": 2160,
+                    "height": 640,
+                    "width": 759,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842989,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250693,
+                    "type": "rectangle",
+                    "sequence": 6,
+                    "x": 760,
+                    "y": 2157,
+                    "height": 643,
+                    "width": 1061,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198828,
+            "book_id": 10130,
+            "color_file": "22_1a34.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 22,
+            "panels": [
+                {
+                    "id": 1250694,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 277,
+                    "y": 76,
+                    "height": 760,
+                    "width": 1344,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250695,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 78,
+                    "y": 865,
+                    "height": 649,
+                    "width": 556,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842994,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250696,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 665,
+                    "y": 864,
+                    "height": 652,
+                    "width": 524,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842995,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250697,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 1220,
+                    "y": 867,
+                    "height": 649,
+                    "width": 533,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842996,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250698,
+                    "type": "rectangle",
+                    "sequence": 4,
+                    "x": 76,
+                    "y": 1548,
+                    "height": 648,
+                    "width": 558,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842997,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250699,
+                    "type": "rectangle",
+                    "sequence": 5,
+                    "x": 665,
+                    "y": 1546,
+                    "height": 649,
+                    "width": 522,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842998,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250700,
+                    "type": "rectangle",
+                    "sequence": 6,
+                    "x": 1214,
+                    "y": 1547,
+                    "height": 646,
+                    "width": 537,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 843000,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250701,
+                    "type": "rectangle",
+                    "sequence": 7,
+                    "x": 214,
+                    "y": 2224,
+                    "height": 495,
+                    "width": 1520,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 842999,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198829,
+            "book_id": 10130,
+            "color_file": "23_d171.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1821,
+            "is_legacy": false,
+            "sequence": 23,
+            "panels": [
+                {
+                    "id": 1250702,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 339,
+                    "y": 0,
+                    "height": 926,
+                    "width": 936,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250703,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 468,
+                    "y": 995,
+                    "height": 837,
+                    "width": 1065,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 843003,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250704,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 0,
+                    "y": 1891,
+                    "height": 909,
+                    "width": 923,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 843005,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250705,
+                    "type": "rectangle",
+                    "sequence": 3,
+                    "x": 924,
+                    "y": 1898,
+                    "height": 902,
+                    "width": 897,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "pan",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198830,
+            "book_id": 10130,
+            "color_file": "24_39ec.jpg",
+            "type": "story",
+            "height": 2800,
+            "width": 1825,
+            "is_legacy": false,
+            "sequence": 24,
+            "panels": [
+                {
+                    "id": 1250706,
+                    "type": "rectangle",
+                    "sequence": 0,
+                    "x": 0,
+                    "y": 0,
+                    "height": 1174,
+                    "width": 1825,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "type": "crossfade",
+                            "duration": 0.6,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250707,
+                    "type": "rectangle",
+                    "sequence": 1,
+                    "x": 224,
+                    "y": 1220,
+                    "height": 658,
+                    "width": 1321,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 843007,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                },
+                {
+                    "id": 1250708,
+                    "type": "rectangle",
+                    "sequence": 2,
+                    "x": 802,
+                    "y": 1908,
+                    "height": 892,
+                    "width": 1023,
+                    "mask_color": "#000000",
+                    "transitions_forward": [
+                        {
+                            "id": 843008,
+                            "type": "crossfade",
+                            "duration": 0.3,
+                            "direction": "none"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "prev_next_issue": {
+        "prev_issue_meta": {
+            "id": 10355,
+            "catalog_id": 17588,
+            "title": "Wolverine (2003) #61",
+            "series_id": 632,
+            "series_title": "Wolverine (2003 - 2009)",
+            "release_date": "2008-01-09",
+            "description": "\"LOGAN DIES\"\r<br>This is it. The final chapter! Logan battles Scimitar, Shogun and Lord Shingen for his very soul! Will he survive? Probably, but with an arc entitled \"Logan Dies,\" you can never be sure. Part 5 (of 5).\r<br>\r<br>Parental Advisory ...$2.99\r<br>",
+            "rating": "PARENTAL ADVISORY",
+            "imprint": "Marvel Knights",
+            "format": "Comic",
+            "creators": {
+                "string_list": "Guggenheim, Suydam, Delgado, Petit, Chaykin, Barber",
+                "creators_analytics": "644 | Marc Guggenheim, 1057 | Arthur Suydam, 430 | Edgar Delgado, 361 | Cory Petit, 808 | Howard Chaykin, 7639 | John Barber",
+                "extended_list": [
+                    {
+                        "id": 644,
+                        "full_name": "Marc Guggenheim",
+                        "role": "writer"
+                    },
+                    {
+                        "id": 1057,
+                        "full_name": "Arthur Suydam",
+                        "role": "penciller (cover)"
+                    },
+                    {
+                        "id": 430,
+                        "full_name": "Edgar Delgado",
+                        "role": "colorist"
+                    },
+                    {
+                        "id": 361,
+                        "full_name": "Cory Petit",
+                        "role": "letterer"
+                    },
+                    {
+                        "id": 808,
+                        "full_name": "Howard Chaykin",
+                        "role": "artist"
+                    },
+                    {
+                        "id": 7639,
+                        "full_name": "John Barber",
+                        "role": "editor"
+                    }
+                ],
+                "extended_list_roles": [
+                    "writer",
+                    "penciller (cover)",
+                    "colorist",
+                    "letterer",
+                    "artist",
+                    "editor"
+                ]
+            }
+        },
+        "next_issue_meta": {
+            "id": 11775,
+            "catalog_id": 20833,
+            "title": "Wolverine (2003) #63",
+            "series_id": 632,
+            "series_title": "Wolverine (2003 - 2009)",
+            "release_date": "2008-03-12",
+            "description": "In the aftermath of \"Messiah CompleX,\" Wolverine's quest for vengeance continues, taking him from the desolate hills of Afghanistan to the war-torn streets of Baghdad.  Along the way, with his quarry throwing more and more innocents into the line of fire, Wolverine must ask himself: just how much collateral damage can he live with?\r<br>Rated Parental Advisory ...$2.99 \r<br>",
+            "rating": "PARENTAL ADVISORY",
+            "imprint": "Marvel Knights",
+            "format": "Comic",
+            "creators": {
+                "string_list": "Aaron, Garney, Keith, Petit, Alonso",
+                "creators_analytics": "11463 | Jason Aaron, 120 | Ron Garney, 426 | Jason Keith, 361 | Cory Petit, 4014 | Axel Alonso",
+                "extended_list": [
+                    {
+                        "id": 11463,
+                        "full_name": "Jason Aaron",
+                        "role": "writer"
+                    },
+                    {
+                        "id": 120,
+                        "full_name": "Ron Garney",
+                        "role": "penciller (cover)"
+                    },
+                    {
+                        "id": 426,
+                        "full_name": "Jason Keith",
+                        "role": "colorist"
+                    },
+                    {
+                        "id": 361,
+                        "full_name": "Cory Petit",
+                        "role": "letterer"
+                    },
+                    {
+                        "id": 4014,
+                        "full_name": "Axel Alonso",
+                        "role": "editor"
+                    }
+                ],
+                "extended_list_roles": [
+                    "writer",
+                    "penciller (cover)",
+                    "colorist",
+                    "letterer",
+                    "editor"
+                ]
+            }
+        }
+    }
+}
